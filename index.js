@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
       </style>
     </head>
     <body>
-      <h1>MONKEY . D . LUFFY!!!!!!!</h1>
+      <h1>'Congratulations from EMC Node.js App'</h1>
     </body>
     </html>
   `);
